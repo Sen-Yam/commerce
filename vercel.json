@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "package.json",
+        "use": "@now/next"
+      }
+    ],
+    "env": {
+        "NEXT_PUBLIC_SANITY_TOKEN" : "skY1UHx4dwanp3KvXZc70Ivydjv9L07hQmzpweVofki9C4OY5Dy7NdQwYuu9JsL3PBt6sNYC2HNLauEe9Bw7Xtvmmnhtp1D1n7uO2UIWwiyoV0CdvBbouErjERAJpsdbXJBLZlK33PJG4eoB4ZaK7DccpDRY3ImncMzHgdjR6CBOBgpFbnTg",
+        "NEXT_PUBLIC_STRIPE_KEY" : "pk_test_51O15JtDcPUlWZMRbeAbmoXsALIgAE2GipKx6SntZR7FNai2W4OFAHIRRt01ak6KfoC5VOinYgXIPQ4Dv9yVAdrw200z9LpcUZT",
+        "NEXT_SECRET_STRIPE_KEY" : "sk_test_51O15JtDcPUlWZMRb74tWvZ9VOkjFboFkdpxGTw382Fs2S6X3sC60AXQrHYgJEDuHvd0ABvbcATuHQ4Uwv7aPtuuv00XBAv98l6"
+    }
+  }
+  
